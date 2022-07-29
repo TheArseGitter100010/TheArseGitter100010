@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheArseGitter100010
 - 👀 I’m interested in Programming things
-- 🌱 I’m currently learning how to make a god damn WAN socket connection
-- 💞️ I’m not really looking to collaborate on something, i originally made an account to move my code across devices.
-- 📫 How to reach me: No
+- 🌱 I’m currently learning something, probably
+- 💞️ I’m a human with emotions.
+- 📫 How to reach me: Call me
